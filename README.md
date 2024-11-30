@@ -161,7 +161,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](bookcover.png)
+![alt text](cover2.png)
+![alt text](cover1.png)
 
 
 ## RESULT:
